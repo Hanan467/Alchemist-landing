@@ -1,0 +1,47 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background-image: url("imgs/12554.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+section{
+        height: 100vh;
+    }
+.navbar-nav > li{
+ padding-left:30px;
+ padding-top: 30px;
+ font-size: larger;
+}
+.container-xxl{
+    padding-left: 70px;
+    padding-top: 30px;
+} 
+.btn{
+    text-align: right;
+}
+.nav-link:hover{
+    border-bottom: 2px solid gold;
+}
+#about,#services{
+    background-image: url("imgs/723251928185.jpg");
+    background-repeat:no-repeat;
+    background-attachment:scroll;
+    background-size: cover;   
+ }
+ #p1{
+    font-size: 26px;
+ }
+ .form-floating input, .form-floating textarea {
+    width: 100%;
+  }
+#contact{
+    background-image: url("imgs/062134858628.jpg");
+    background-repeat: no-repeat;
+    background-attachment:scroll;
+    background-size: cover;  
+}
+
+  
